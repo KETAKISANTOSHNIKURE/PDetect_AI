@@ -32,7 +32,7 @@ if (selected == "About"):
     st.title("Parkinson's Disease ")
     st.write("Parkinson's disease is a progressive disorder that affects the nervous system and the parts of the body controlled by the nerves. Symptoms start slowly. The first symptom may be a barely noticeable tremor in just one hand. Tremors are common, but the disorder may also cause stiffness or slowing of movement.")
     
-    img1 = Image.open("Parkinson-s-Disease-Detection-System-main\images.jpg")
+    img1 = Image.open("\Parkinson-s-Disease-Detection-System-main\images.jpg")
    
     
     st.write("In the early stages of Parkinson's disease, your face may show little or no expression. Your arms may not swing when you walk. Your speech may become soft or slurred. Parkinson's disease symptoms worsen as your condition progresses over time.")
