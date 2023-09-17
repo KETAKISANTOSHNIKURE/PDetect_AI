@@ -39,7 +39,7 @@ if (selected == "About"):
     st.write("Although Parkinson's disease can't be cured, medications might significantly improve your symptoms. Occasionally, your health care provider may suggest surgery to regulate certain regions of your brain and improve your symptoms.")
     
     st.header("Symptoms")
-    img = Image.open("Parkinson-s-Disease-Detection-System-main\Symptoms.jpg")
+    img = Image.open("\Parkinson-s-Disease-Detection-System-main\Symptoms.jpg")
     
     st.write("Parkinson's disease signs and symptoms can be different for everyone. Early signs may be mild and go unnoticed. Symptoms often begin on one side of the body and usually remain worse on that side, even after symptoms begin to affect the limbs on both sides")
     st.image(img )
